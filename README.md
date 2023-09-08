@@ -2,7 +2,9 @@
 Ingeniería de datos masivos
 
 **Integrantes - Matricula:**
+
 Jade Ullola Castro - 4500985/n
+
 Alexis Giovanni Valencia Medina - 2840031
 
 Donovan Gared Orozco García - 3005606
