@@ -3,7 +3,7 @@ Ingeniería de datos masivos
 
 **Integrantes - Matricula:**
 
-Jade Ullola Castro - 4500985/n
+Jade Ullola Castro - 4500985
 
 Alexis Giovanni Valencia Medina - 2840031
 
